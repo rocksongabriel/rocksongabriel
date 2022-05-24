@@ -80,5 +80,10 @@ I enjoy the entire process of building web apps from the backend to the frontend
 [![wakatime](https://wakatime.com/badge/user/b7bf4d25-9b24-4610-a436-b47f6fc047d1.svg)](https://wakatime.com/@b7bf4d25-9b24-4610-a436-b47f6fc047d1)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
