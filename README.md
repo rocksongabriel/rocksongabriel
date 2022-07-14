@@ -1,15 +1,23 @@
 <h2 align="center">
-Hi  👋, Gabriel Rockson here. I'm a Full-Stack Python / React Software Developer 💻 and Cloud Enthusiast!
+Hi there 👋, I'm Gabriel Rockson, a Full-Stack Python / JavaScript Software Developer 💻 and Cloud Enthusiast!
 </h2>
-I enjoy the entire process of building web apps from the backend to the frontend and being able to comprehend the entire software development process and how all the pieces come together to form a great software.
+
+![GIF of a Programmer having fun](https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif)
+
+I enjoy the entire process of building web apps from the backend to the frontend and being able to see and appreciate the entire software development process and how all the pieces come together to form a great software.
 
 ## 🌱 Things I'm Currently Learning
-- Data Structures and Algorithms with an Udacity Programme
-- Cloud Computing using AWS
-- Managing State in React
+- Data Structures and Algorithms 
+- Cloud Computing with AWS
+- Cloud Computing with Google
+- Redis Introduction ( Data Structures )
 
 ## 🔭 Things I'm Currently Working On
-- Classhub Project -> A web app for teachers to take students' attendance and manage student's data.
+<h3>Schoolhub:</h3>
+<ul>
+  <li>A school management system</li>
+  <li>Stack: FastAPI, React and PostgreSQL</li>
+</ul>
 <br />
 
 ## 💼 My Skills and Tools
@@ -46,6 +54,9 @@ I enjoy the entire process of building web apps from the backend to the frontend
 #### My Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br /><br />
+
+## My Ideas List
+https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJEOY/edit?usp=sharing
 
 ## 🤝 Connect with me 📱
 
