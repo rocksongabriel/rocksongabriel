@@ -6,6 +6,9 @@ Hi there 👋, I'm Gabriel Rockson, a Full-Stack Python / JavaScript Software De
 
 I enjoy the entire process of building web apps from the backend to the frontend and being able to see and appreciate the entire software development process and how all the pieces come together to form a great software.
 
+## 📖 My Ideas List
+https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJEOY/edit?usp=sharing
+
 ## 🌱 Things I'm Currently Learning
 - Data Structures and Algorithms 
 - Cloud Computing with AWS
@@ -18,9 +21,9 @@ I enjoy the entire process of building web apps from the backend to the frontend
   <li>A school management system</li>
   <li>Stack: FastAPI, React and PostgreSQL</li>
 </ul>
-<br />
 
-## 💼 My Skills and Tools
+***
+## 💼 My Skillsets and Tools
 
 #### Backend Web Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -50,14 +53,16 @@ I enjoy the entire process of building web apps from the backend to the frontend
 
 #### Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Coud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+
+#### My Editor
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 #### My Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-<br /><br />
+<br />
 
-## My Ideas List
-https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJEOY/edit?usp=sharing
-
+***
 ## 🤝 Connect with me 📱
 
 #### My Socials
@@ -72,14 +77,14 @@ https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJ
 <a href="https://stackoverflow.com/users/15811080/gabriel-rockson">
   <img align="left" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white" alt="Gabriel Rockson | Stackoverflow"/>
 </a>
-<br />
 
 #### My Email 📩
 <a href="mailto:gabrielrockson.official@gmail.com">
   <img align="left" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gabriel Rockson | Email"/>
 </a><span>gabrielrockson.official@gmail.com</span>
-<br /><br />
+<br />
 
+***
 ## 📈 Stats 
 
 ### Github
