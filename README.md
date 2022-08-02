@@ -95,11 +95,4 @@ https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJ
 ### Wakatime
 [![wakatime](https://wakatime.com/badge/user/b7bf4d25-9b24-4610-a436-b47f6fc047d1.svg)](https://wakatime.com/@b7bf4d25-9b24-4610-a436-b47f6fc047d1)
 
-<!--START_SECTION:waka-->
-
-```text
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
+[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel_rockson)](https://github.com/rocksongabriel)
