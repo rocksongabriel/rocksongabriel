@@ -60,15 +60,6 @@ https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJ
 </ul>
 
 ***
-## 💼 My Skillsets and Tools
-
-#### Backend Web Development
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-
-
-***
 ## 🤝 Connect with me 📱
 
 #### My Socials
