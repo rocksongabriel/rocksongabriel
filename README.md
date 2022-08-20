@@ -1,28 +1,9 @@
-<h2 align="center">
-Hi there 👋, I'm Gabriel Rockson, a Full-Stack Python / JavaScript Software Developer 💻 and Cloud Enthusiast!
+<h2 align="left">
+Hi there 👋, I'm Gabriel Rockson, a Full-Stack Python / React Software Developer 💻 and AWS Cloud Developer!
 </h2>
-
-![GIF of a Programmer having fun](https://media.giphy.com/media/KfwyWfTwMu1FG0XhO8/giphy.gif)
 
 I enjoy the entire process of building web apps from the backend to the frontend and being able to see and appreciate the entire software development process and how all the pieces come together to form a great software.
 
-## 📖 My Ideas List
-https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJEOY/edit?usp=sharing
-
-## 🌱 Things I'm Currently Learning
-- Data Structures and Algorithms 
-- Cloud Computing with AWS
-- Cloud Computing with Google
-- Redis Introduction ( Data Structures )
-
-## 🔭 Things I'm Currently Working On
-<h3>Schoolhub:</h3>
-<ul>
-  <li>A school management system</li>
-  <li>Stack: FastAPI, React and PostgreSQL</li>
-</ul>
-
-***
 ## 💼 My Skillsets and Tools
 
 #### Backend Web Development
@@ -61,6 +42,31 @@ https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJ
 #### My Operating System
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 <br />
+
+## 📖 My Ideas List
+https://docs.google.com/spreadsheets/d/1vL0q9ArHvv4DKxXa3Ga2Uq643RT_DCBOG7nI-VyJEOY/edit?usp=sharing
+
+## 🌱 Things I'm Currently Learning
+- Data Structures and Algorithms 
+- Cloud Computing with AWS
+- Cloud Computing with Google
+- Redis Introduction ( Data Structures )
+
+## 🔭 Things I'm Currently Working On
+<h3>Lee Hower Todo App:</h3>
+<ul>
+  <li>A prioritization first todo application.</li>
+  <li>Stack: FastAPI, React and PostgreSQL</li>
+</ul>
+
+***
+## 💼 My Skillsets and Tools
+
+#### Backend Web Development
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
+
 
 ***
 ## 🤝 Connect with me 📱
