@@ -81,7 +81,8 @@ I enjoy the entire process of building web apps from the backend to the frontend
 ### Wakatime
 [![wakatime](https://wakatime.com/badge/user/b7bf4d25-9b24-4610-a436-b47f6fc047d1.svg)](https://wakatime.com/@b7bf4d25-9b24-4610-a436-b47f6fc047d1)
 
-[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel_rockson&show_icons=true&theme=radical)](https://github.com/rocksongabriel)
+[![Gabriel's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gabriel_rockson&show_icons=true&theme=radical&count_private=true&langs_count=10)](https://github.com/rocksongabriel)
+
 
 ***
 ## 📖 My Ideas List
